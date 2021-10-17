@@ -415,4 +415,18 @@ color: var(--mainGrey);
     color: var(--mainGrey);
 }
 /* end costumer */
-
+/* footer */
+.footer{
+    background: var(--mainBlack);
+  
+}
+.footer-icon{
+    color: var(--mainYellow);
+    font-size: 1.5rem;
+    text-decoration: none;
+    transition: all 1s ease-in-out;
+}
+.footer-icon:hover{
+    color: var(--mainBlue);
+}
+/* end footer */
