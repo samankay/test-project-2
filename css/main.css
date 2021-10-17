@@ -389,3 +389,30 @@ body {
     font-size: 4rem;
     color: var(--mainYellow);
 }
+/* costumer */
+
+.costumer-card-body{
+    margin-top: -4rem;
+}
+.customer-img{
+    border: 0.4rem solid var(--mainWhite);
+}
+.costumer-name{
+    margin-top: 0.5rem;
+    color: var(--mainBlue);
+}
+.costumer-icon{
+font-size: 2rem;
+color: var(--mainGrey);
+}
+
+.comstumer-quote{
+    color: var(--mainGrey);
+    max-width: 90%;
+    margin-left: 1rem;
+}
+.costumer-job{
+    color: var(--mainGrey);
+}
+/* end costumer */
+
